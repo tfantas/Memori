@@ -60,3 +60,4 @@ results/
 !pyproject.toml
 !package.json
 !composer.json
+.log
